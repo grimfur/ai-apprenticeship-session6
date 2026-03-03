@@ -25,3 +25,6 @@ data/       → datasets
 
 ## Version Control
 Git used for source control. Repository hosted on GitHub.
+
+## Reflection
+This project demonstrates environment isolation, dependency management, structured project design and version control best practice.
