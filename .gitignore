@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Data files
+*.csv
+*.xlsx
+*.parquet
+
+# Data directories
+**/data/
+**/outputs/
+
+# Temporary notebooks exports
+*.html
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
